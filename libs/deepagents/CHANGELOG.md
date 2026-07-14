@@ -1,5 +1,11 @@
 # deepagents
 
+## 1.11.0
+
+### Minor Changes
+
+- [#669](https://github.com/langchain-ai/deepagentsjs/pull/669) [`4643148`](https://github.com/langchain-ai/deepagentsjs/commit/4643148e8b64c796d3144210bac3ad1c6f5b2091) Thanks [@hntrl](https://github.com/hntrl)! - feat(deepagents): add structured system prompt configuration
+
 ## 1.10.8
 
 ### Patch Changes
